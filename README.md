@@ -1,4 +1,4 @@
-# Projeto de Exemplo VB.NET com Redis
+# Projeto de Exemplo VB.NET com Redis para Unimed
 
 Este é um projeto de exemplo em Visual Basic (.NET) que demonstra a integração com o Redis na versão 7 para operações básicas 
 de armazenamento e recuperação de dados em cache.
